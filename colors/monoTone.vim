@@ -1,7 +1,7 @@
 " Vim color file
 " Name:     monoTone
 " Author:   MeF0504
-" Github:   
+" Github:   https://github.com/MeF0504/vim-monoTone.git
 "
 
 highlight clear
