@@ -8,15 +8,15 @@ Black and White vim colorscheme.
 
 - Dark Scheme
 
-<img src="./images/sshot_c_dark.png" width=33%>
-<img src="./images/sshot_py_dark.png" width=33%>
-<img src="./images/sshot_vim_dark.png" width=33%>
+c, python, vim script
+
+<img src="./images/sshot_c_dark.png" width=33%> <img src="./images/sshot_py_dark.png" width=33%> <img src="./images/sshot_vim_dark.png" width=33%>
 
 - Light Scheme
 
-<img src="./images/sshot_c_light.png" width=33%>
-<img src="./images/sshot_py_light.png" width=33%>
-<img src="./images/sshot_vim_light.png" width=33%>
+c, python, vim script
+
+<img src="./images/sshot_c_light.png" width=33%> <img src="./images/sshot_py_light.png" width=33%> <img src="./images/sshot_vim_light.png" width=33%>
 
 ## installation
 
