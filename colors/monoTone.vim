@@ -22,7 +22,7 @@ let s:italic = 0
 " color level ... 0 ~ 23
 let s:color_level = {}
 " :h group-name
-let s:color_level["Normal"]         = [21, 'none', 'none']
+let s:color_level["Normal"]         = [21, 1, 'none']
 
 let s:color_level["Comment"]        = [10, 'none', s:italic ? 'Italic' : 'none']
 
