@@ -22,7 +22,7 @@ let s:italic = 0
 " color level ... 0 ~ 23
 let s:color_level = {}
 " :h group-name
-let s:color_level["Normal"]         = [20, 'none', 'none']
+let s:color_level["Normal"]         = [21, 'none', 'none']
 
 let s:color_level["Comment"]        = [10, 'none', s:italic ? 'Italic' : 'none']
 
@@ -34,7 +34,7 @@ let s:color_level["Constant"]       = [13, 'none', 'none']
 let s:color_level["String"]         = [17, 'none', 'UnderLine']
 let s:color_level["Character"]      = [3, 12, 'none']
 
-let s:color_level["Identifier"]     = [18, 'none', 'none']
+let s:color_level["Identifier"]     = [18, 'none', 'Bold']
 " let s:color_level["Function"]       = [18, 'none', 'none']
 
 let s:color_level["Statement"]      = [23, 'none', 'Bold']
